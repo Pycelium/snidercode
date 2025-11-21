@@ -1,0 +1,48 @@
+site_name: SniderCode
+site_url: https://snidercode.com
+site_author: Jay Snider
+site_description: My programming journey from electronics engineer to full-stack developer
+
+theme:
+  name: material
+  palette:
+    - scheme: slate
+      primary: deep purple
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+    - scheme: default
+      primary: deep purple
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+repo_url: https://github.com/Pycelium/snidercode
+edit_uri: edit/main/docs/
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Weekly Logs: 
+      - "Week 1 – Python Basics": 2025/week01.md
+  - Projects: projects.md
+  - Contact: contact.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - toc:
+      permalink: true

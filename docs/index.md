@@ -1,7 +1,12 @@
 # Welcome to SniderCode
 
-I'm a 44-year-old electronics engineer learning to code 1–2 hours every day.
+I'm a 43-year-old ECET graduate self-learning to code 1–2 hours every day.
 
-This site documents everything I learn — the wins, the bugs, and the projects.
+This site documents my progress and provides me with a sense of accountability.
 
-Currently learning: Python → Django
+My main aim is to produce robust, resilient and reliable code.
+
+Consistent effort is my main method.
+
+
+Currently learning: Python → Basics via the book: Python Crash Course

@@ -33,7 +33,7 @@ edit_uri: edit/main/docs/
 nav:
   - Home: index.md
   - About: about.md
-  - Weekly Logs: 
+  - Learning Logs: 
       - "Week 1 – Python Basics": 2025/week01.md
   - Projects: projects.md
   - Contact: contact.md

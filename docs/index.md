@@ -1,6 +1,6 @@
 # Welcome to SniderCode
 
-I'm a 43-year-old ECET graduate self-learning to code 1–2 hours every day.
+I'm a 44-year-old ECET graduate self-learning to code 1–2 hours every day.
 
 This site documents my progress and provides me with a sense of accountability.
 
